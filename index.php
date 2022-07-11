@@ -1,3 +1,1 @@
-<?php
-
-echo "Hello World!";
+<?php header("Location: http://www.redirect.to.url.com/"); ?>
