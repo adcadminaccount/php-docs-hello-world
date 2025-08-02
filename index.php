@@ -1,1 +1,1 @@
-<?php header("Location: https://client.wvd.microsoft.com/arm/webclient/"); ?>
+<?php header("Location: https://windows.cloud.microsoft"); ?>
