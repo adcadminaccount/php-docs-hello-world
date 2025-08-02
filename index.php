@@ -1,1 +1,1 @@
-<?php header("Location: https://windows.cloud.microsoft/"); ?>
+<?php header("Location: https://windows.cloud.microsoft"); ?>
